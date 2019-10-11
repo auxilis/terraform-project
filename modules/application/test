@@ -1,0 +1,894 @@
+[31m
+[1m[31mError: [0m[0m[1mInvalid character[0m
+
+[0m  on main.tf line 45:
+  (source code not available)
+
+This character is not used within the language.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid expression[0m
+
+[0m  on main.tf line 45:
+  (source code not available)
+
+Expected the start of an expression, but found an invalid expression token.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 45:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 46:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 47:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 49:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 50:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid character[0m
+
+[0m  on main.tf line 51:
+  (source code not available)
+
+This character is not used within the language.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 51:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 52:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 54:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid character[0m
+
+[0m  on main.tf line 56:
+  (source code not available)
+
+This character is not used within the language.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 56:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid character[0m
+
+[0m  on main.tf line 57:
+  (source code not available)
+
+This character is not used within the language.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 57:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid character[0m
+
+[0m  on main.tf line 58:
+  (source code not available)
+
+This character is not used within the language.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 58:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 60:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid character[0m
+
+[0m  on main.tf line 61:
+  (source code not available)
+
+This character is not used within the language.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 61:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 62:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid character[0m
+
+[0m  on main.tf line 64:
+  (source code not available)
+
+This character is not used within the language.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 64:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid character[0m
+
+[0m  on main.tf line 65:
+  (source code not available)
+
+This character is not used within the language.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 65:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid character[0m
+
+[0m  on main.tf line 66:
+  (source code not available)
+
+This character is not used within the language.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 66:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 67:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 68:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 69:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 70:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 72:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 74:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid character[0m
+
+[0m  on main.tf line 75:
+  (source code not available)
+
+This character is not used within the language.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 75:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid character[0m
+
+[0m  on main.tf line 76:
+  (source code not available)
+
+This character is not used within the language.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 76:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid character[0m
+
+[0m  on main.tf line 78:
+  (source code not available)
+
+This character is not used within the language.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 78:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 80:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid character[0m
+
+[0m  on main.tf line 81:
+  (source code not available)
+
+This character is not used within the language.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 81:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 82:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 83:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 84:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 86:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 87:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid character[0m
+
+[0m  on main.tf line 88:
+  (source code not available)
+
+This character is not used within the language.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 88:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid character[0m
+
+[0m  on main.tf line 89:
+  (source code not available)
+
+This character is not used within the language.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 89:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid character[0m
+
+[0m  on main.tf line 90:
+  (source code not available)
+
+This character is not used within the language.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 90:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid character[0m
+
+[0m  on main.tf line 91:
+  (source code not available)
+
+This character is not used within the language.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 91:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 92:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 93:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 94:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 95:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 96:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 97:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 98:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 99:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 100:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 101:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 103:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid character[0m
+
+[0m  on main.tf line 104:
+  (source code not available)
+
+This character is not used within the language.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 104:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid character[0m
+
+[0m  on main.tf line 105:
+  (source code not available)
+
+This character is not used within the language.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 105:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid character[0m
+
+[0m  on main.tf line 106:
+  (source code not available)
+
+This character is not used within the language.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 106:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid character[0m
+
+[0m  on main.tf line 107:
+  (source code not available)
+
+This character is not used within the language.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 107:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid character[0m
+
+[0m  on main.tf line 108:
+  (source code not available)
+
+This character is not used within the language.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 108:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid character[0m
+
+[0m  on main.tf line 109:
+  (source code not available)
+
+This character is not used within the language.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 109:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 110:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid character[0m
+
+[0m  on main.tf line 111:
+  (source code not available)
+
+This character is not used within the language.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 111:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid character[0m
+
+[0m  on main.tf line 113:
+  (source code not available)
+
+This character is not used within the language.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 113:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid character[0m
+
+[0m  on main.tf line 115:
+  (source code not available)
+
+This character is not used within the language.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 115:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 117:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 118:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid character[0m
+
+[0m  on main.tf line 119:
+  (source code not available)
+
+This character is not used within the language.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 119:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 120:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 121:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 123:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 124:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 125:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m
+[31m
+[1m[31mError: [0m[0m[1mInvalid multi-line string[0m
+
+[0m  on main.tf line 126:
+  (source code not available)
+
+Quoted strings may not be split over multiple lines. To produce a multi-line
+string, either use the \n escape to represent a newline character or use the
+"heredoc" multi-line template syntax.
+[0m[0m

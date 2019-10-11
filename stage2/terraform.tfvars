@@ -1,0 +1,14 @@
+lb_healthy_threshold   = 2
+lb_unhealthy_threshold = 2
+lb_timeout             = 3
+lb_interval            = 30
+asg_max                = 2
+asg_min                = 1
+asg_grace              = 300
+asg_hct                = "EC2"
+asg_cap                = 2
+instance_type          = "t2.micro"
+lg_sg                  = ""
+sg_prv                 = ""
+key_id                 = ""
+aws_region             = "us-east-1"
